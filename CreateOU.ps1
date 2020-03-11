@@ -1,0 +1,6 @@
+New-ADOrganizationalUnit "Group 1" -path "DC=powerdc,DC=com"
+New-ADOrganizationalUnit "Group 2" -path "DC=powerdc,DC=com"
+New-ADOrganizationalUnit "Group 3" -path "DC=powerdc,DC=com"
+New-ADOrganizationalUnit "Group 4" -path "DC=powerdc,DC=com"
+New-ADOrganizationalUnit "Group 5" -path "DC=powerdc,DC=com"
+New-ADOrganizationalUnit "Group 6" -path "DC=powerdc,DC=com"
